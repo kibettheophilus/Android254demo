@@ -45,6 +45,13 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    sourceSets {
+        getByName("Android254") {
+            java {
+                srcDirs("src\\Android254\\java", "src\\Android254\\java")
+            }
+        }
+    }
 }
 
 dependencies {
