@@ -12,9 +12,9 @@
         android:theme="@style/Theme.Android254demo"
         tools:targetApi="31">
         <activity
-            android:name="com.theo.android254demo.Android254MainActivity"
-            android:exported="true">
-
+            android:name="com.theo.android254demo.KotlinKenyaMainActivity"
+            android:exported="true"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
