@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/eventsFragment">
+
+    <fragment
+        android:id="@+id/eventsFragment"
+        android:name="com.theo.android254demo.EventsFragment"
+        android:label="" />
+
+    <fragment
+        android:id="@+id/teamFragment"
+        android:name="com.theo.android254demo.TeamFragment"
+        android:label="" />
+
+    <fragment
+        android:id="@+id/sponsorsFragment"
+        android:name="com.theo.android254demo.SponsorsFragment"
+        android:label="" />
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.theo.android254demo.AboutFragment"
+        android:label="" />
+</navigation>
