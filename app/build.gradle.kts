@@ -27,13 +27,15 @@ android {
         }
     }
 
-    flavorDimensions += "demo"
+    flavorDimensions += "com"
     productFlavors {
         create("Android254") {
+            dimension = "com"
             applicationIdSuffix = ".android"
             compileSdk = 33
         }
         val KotlinKenya by creating {
+            dimension = "com"
             applicationIdSuffix = ".kotlin"
         }
     }
