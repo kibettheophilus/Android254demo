@@ -1,4 +1,4 @@
-package com.theo.android254demo
+package com.theo.android254demo.data
 
 data class EventModel(
     val title: String,

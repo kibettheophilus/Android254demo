@@ -3,6 +3,7 @@ package com.theo.android254demo
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.theo.android254demo.data.EventModel
 import com.theo.android254demo.databinding.ItemEventBinding
 
 class EventsAdapter(private val events: List<EventModel>) :

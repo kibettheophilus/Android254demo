@@ -66,6 +66,7 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.navigation:navigation-fragment:2.5.2")
     implementation("androidx.navigation:navigation-ui-ktx:2.6.0-alpha01")
+    implementation(project(":data"))
 
     // compose
     implementation("androidx.compose.ui:ui:1.3.0-beta02")
