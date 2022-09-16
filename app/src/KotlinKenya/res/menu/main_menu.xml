@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/eventsFragment"
+        android:id="@+id/eventsFragment2"
         android:title="Events" />
     <item
         android:id="@+id/teamFragment"
@@ -12,6 +12,6 @@
         android:id="@+id/sponsorsFragment"
         android:title="Sponsors" />
     <item
-        android:id="@+id/aboutFragment"
+        android:id="@+id/aboutFragment2"
         android:title="About" />
 </menu>

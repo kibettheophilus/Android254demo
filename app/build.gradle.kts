@@ -66,6 +66,16 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.navigation:navigation-fragment:2.5.2")
     implementation("androidx.navigation:navigation-ui-ktx:2.6.0-alpha01")
+
+    // compose
+    implementation("androidx.compose.ui:ui:1.3.0-beta02")
+    implementation("androidx.compose.material:material:1.1.0-beta01")
+    implementation("androidx.compose.ui:ui-tooling-preview:1.1.0-beta01")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.3.1")
+    implementation("androidx.activity:activity-compose:1.3.1")
+    debugImplementation("androidx.compose.ui:ui-tooling:1.1.0-beta01")
+    debugImplementation("androidx.compose.ui:ui-test-manifest:1.1.0-beta01")
+    implementation("androidx.compose.material:material-icons-extended:1.1.0-beta01")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.3")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.4.0")
