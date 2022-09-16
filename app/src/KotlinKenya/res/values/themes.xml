@@ -2,9 +2,9 @@
     <!-- Base application theme. -->
     <style name="Theme.KotlinKenya" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryDark">@color/purple_700</item>
-        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimary">@color/kotlin_primary</item>
+        <item name="colorPrimaryDark">@color/kotlin_primary_dark</item>
+        <item name="colorAccent">@color/kotlin_primary_light</item>
         <!-- Customize your theme here. -->
     </style>
 </resources>
