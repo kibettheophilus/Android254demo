@@ -7,7 +7,7 @@ Slides - [Build Configurations](https://docs.google.com/presentation/d/1ydU619r6
 <table>
   <tr>
   <td>Android254 flavor</td>
-  <td>Android254 flavor</td>
+  <td>KotlinKenya flavor</td>
   </tr>
   <tr>
   <td><img src="https://user-images.githubusercontent.com/61080898/190866267-ad01e678-f542-4a41-97c6-9e2470e3f057.png"></td>
