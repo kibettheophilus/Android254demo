@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/eventsFragment"
+        android:icon="@drawable/ic_event"
+        android:title="Events" />
+    <item
+        android:id="@+id/teamFragment"
+        android:icon="@drawable/ic_team"
+        android:title="Team" />
+    <item
+        android:id="@+id/sponsorsFragment"
+        android:icon="@drawable/ic_sponsors"
+        android:title="Sponsors" />
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_about"
+        android:title="About" />
+</menu>
